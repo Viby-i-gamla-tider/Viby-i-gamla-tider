@@ -15,6 +15,9 @@ async function renderReader(){
   document.title=item.title+' – Viby i gamla tider'; $('#reader-title').textContent=item.title;
   $('#source-link').href='archive/original/'+item.file.split('/').map(encodeURIComponent).join('/');
   root.innerHTML=item.html;
+  // Gamla FrontPage-sidor kan innehålla bildreferenser som aldrig arkiverades.
+  // Dölj endast en bild om den faktiskt misslyckas att ladda; originaltexten påverkas inte.
+  $$('#reader-content img').forEach(img=>img.addEventListener('error',()=>{img.style.display='none';img.setAttribute('data-archive-missing','true')},{once:true}));
 }
 function norm(s){return (s||'').toLocaleLowerCase('sv').normalize('NFD').replace(/[\u0300-\u036f]/g,'')}
 function snippet(text,q){const n=norm(text), nq=norm(q),i=n.indexOf(nq);let s=Math.max(0,i-90),e=Math.min(text.length,(i<0?0:i)+q.length+150);let out=text.slice(s,e);if(s)out='…'+out;if(e<text.length)out+='…';return out}
