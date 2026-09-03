@@ -1,0 +1,8 @@
+V4 – robust bildarkiv
+
+- 540 bildposter är nu statiskt inbyggda i bilder.html.
+- Bildarkivet är inte längre beroende av att images.json hämtas via JavaScript.
+- Sök/filter och modal körs ovanpå den statiska HTML-listan.
+- CSS/JS har versionsparameter ?v=4 för att kringgå gammal browsercache efter GitHub Pages-deployment.
+- FrontPage-saneringen från v3 behålls.
+- Originalarkivet är oförändrat.

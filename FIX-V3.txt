@@ -1,0 +1,1 @@
+V3: tog bort 71 gamla FrontPage/theme/layout-bilder från den moderna artikelvisningen. Originalarkivet är orört.

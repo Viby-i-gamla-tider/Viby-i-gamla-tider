@@ -1,0 +1,144 @@
+Viby i gamla tider – bildsanering v2
+
+Bildreferenser omkopplade till befintliga arkivbilder: 18
+Trasiga bildtaggar borttagna ur den moderna läsvyn: 115
+
+Originalfilerna under archive/original har inte ändrats. Historiska texter har inte skrivits om.
+Dessutom finns ett defensivt felhanteringsskydd i assets/app.js som döljer en bild om webbläsaren trots allt inte kan ladda den.
+
+Omkopplade bilder:
+- 1950-talet/martinshala.htm: archive/original/photogallery/photo00015148/martins1.jpg -> archive/original/martins1.jpg
+- 1950-talet/martinshala.htm: archive/original/photogallery/photo00015148/martins12.jpg -> archive/original/martins12.jpg
+- 1950-talet/martinshala.htm: archive/original/photogallery/photo00015148/martins13.jpg -> archive/original/martins13.jpg
+- 1950-talet/martinshala.htm: archive/original/photogallery/photo00015148/martins2.jpg -> archive/original/martins2.jpg
+- 1950-talet/martinshala.htm: archive/original/photogallery/photo00015148/martins3.jpg -> archive/original/martins3.jpg
+- 1950-talet/martinshala.htm: archive/original/photogallery/photo00015148/martins10.jpg -> archive/original/martins10.jpg
+- 1950-talet/martinshala.htm: archive/original/photogallery/photo00015148/martins8.jpg -> archive/original/martins8.jpg
+- 1950-talet/martinshala.htm: archive/original/photogallery/photo00015148/martins4.jpg -> archive/original/martins4.jpg
+- 1950-talet/martinshala.htm: archive/original/photogallery/photo00015148/martins11.jpg -> archive/original/martins11.jpg
+- augusta i karret.htm: archive/original/_themes/tabs/atabrule.gif -> archive/original/_themes/kopia-av-flikar/atabrule.gif
+- back-sven.htm: archive/original/_themes/tabs/atabrule.gif -> archive/original/_themes/kopia-av-flikar/atabrule.gif
+- bildsida.htm: archive/original/_themes/tabs/atabrule.gif -> archive/original/_themes/kopia-av-flikar/atabrule.gif
+- byavandring domarringen.htm: archive/original/_themes/tabs/atabrule.gif -> archive/original/_themes/kopia-av-flikar/atabrule.gif
+- byavandring fiket.htm: archive/original/_themes/tabs/atabrule.gif -> archive/original/_themes/kopia-av-flikar/atabrule.gif
+- byavandring harfageln.htm: archive/original/_themes/tabs/atabrule.gif -> archive/original/_themes/kopia-av-flikar/atabrule.gif
+- viby_kyrkby.htm: archive/original/photogallery/photo00019629/kyrkbyn2.jpg -> archive/original/kyrkbyn2.jpg
+- viby_kyrkby.htm: archive/original/photogallery/photo00019629/kyrkbyn4.jpg -> archive/original/kyrkbyn4.jpg
+- viby_kyrkby.htm: archive/original/photogallery/photo00019629/kyrkbyn5.jpg -> archive/original/kyrkbyn5.jpg
+
+Borttagna saknade bildreferenser:
+- 31jankyrka.htm: archive/original/kyrkasvart.jpg
+- 31jankyrka.htm: archive/original/kyrkaninv.jpg
+- 31jankyrka.htm: archive/original/kyrkaprelle.jpg
+- bildsida.htm: archive/original/Mat1_small.jpg
+- bildsida.htm: archive/original/Mat2_small.jpg
+- bildsida.htm: archive/original/Mat3_small.jpg
+- bildsida.htm: archive/original/Mat4_small.jpg
+- bildsida.htm: archive/original/hemv1-svenne_small.jpg
+- bildsida.htm: archive/original/hemv4-svenne_small.jpg
+- bildsida.htm: archive/original/hemv.3-svenne_small.jpg
+- bildsida.htm: archive/original/hemv2-svenne_small.jpg
+- bildsida.htm: archive/original/hemv6-svenne_small.jpg
+- bildsida.htm: archive/original/Stalar_small.jpg
+- bildsida.htm: archive/original/Melinklanen_small.jpg
+- bildsida.htm: archive/original/Melinklan2_small.jpg
+- bildsida.htm: archive/original/Liljekvistar_small.jpg
+- bildsida.htm: archive/original/Kusiner_small.jpg
+- bildsida.htm: archive/original/Kalle-Kerstin_small.gif
+- bildsida.htm: archive/original/Profiler_small.jpg
+- bildsida.htm: archive/original/Moller_small.jpg
+- bildspel21okt.htm: archive/original/photogallery/photo4960/prevdis.gif
+- bildspel21okt.htm: archive/original/photogallery/photo4960/mote1.jpg
+- bildspel21okt.htm: archive/original/photogallery/photo4960/mote10.jpg
+- bildspel21okt.htm: archive/original/photogallery/photo4960/mote11.jpg
+- bildspel21okt.htm: archive/original/photogallery/photo4960/mote2.jpg
+- bildspel21okt.htm: archive/original/photogallery/photo4960/mote3.jpg
+- bildspel21okt.htm: archive/original/photogallery/photo4960/mote4.jpg
+- bildspel21okt.htm: archive/original/photogallery/photo4960/mote5.jpg
+- bildspel21okt.htm: archive/original/photogallery/photo4960/mote6.jpg
+- bildspel21okt.htm: archive/original/photogallery/photo4960/mote7.jpg
+- bildspel21okt.htm: archive/original/photogallery/photo4960/mote8.jpg
+- bildspel21okt.htm: archive/original/photogallery/photo4960/mote9.jpg
+- bildspel21okt.htm: archive/original/photogallery/photo4960/next.gif
+- bildspel21okt.htm: archive/original/_themes/willow/willrul.gif
+- bildspel21okt.htm: archive/original/mote1.jpg
+- brodenbilder_a.htm: archive/original/1950-talet/Broden/albert_anderssons%20(hildurs).jpg
+- brodenbilder_a.htm: archive/original/1950-talet/Broden/brittas_syskon.jpg
+- brodenbilder_a.htm: archive/original/1950-talet/Broden/stures.jpg
+- brodenbilder_a.htm: archive/original/1950-talet/Broden/nores.jpg
+- brodenbilder_a.htm: archive/original/1950-talet/Broden/nore_ragnar.jpg
+- brodenbilder_a.htm: archive/original/1950-talet/Broden/hjalmar_perssons.jpg
+- brodenbilder_a.htm: archive/original/1950-talet/Broden/orvar_anderssons.jpg
+- brodenbilder_a.htm: archive/original/1950-talet/Broden/elbins.jpg
+- brodenbilder_a.htm: archive/original/1950-talet/Broden/mollers.jpg
+- brodenbilder_a.htm: archive/original/1950-talet/Broden/maria_o_knut.jpg
+- brodenbilder_a.htm: archive/original/1950-talet/Broden/oscar_olssons.jpg
+- brodenbilder_a.htm: archive/original/1950-talet/Broden/granntraff.jpg
+- brodenbilder_a.htm: archive/original/1950-talet/Broden/algots.jpg
+- brodenbilder_a.htm: archive/original/1950-talet/Broden/verner_olssons.jpg
+- brodenbilder_a.htm: archive/original/1950-talet/Broden/tage_bengtsson.jpg
+- Deltagare.htm: archive/original/Slut%20styrelsen.jpg
+- egnahems.htm: archive/original/egnahems-filer/image003.gif
+- flodbilder.htm: archive/original/_derived/flodbilder.htm_txt_f-fod1.gif
+- flodbilder.htm: archive/original/_derived/flodbilder.htm_txt_f-flod2.gif
+- flodbilder.htm: archive/original/_derived/flodbilder.htm_txt_f-flod3.gif
+- flodbilder.htm: archive/original/_derived/flodbilder.htm_txt_f-flod6.gif
+- flodbilder.htm: archive/original/_derived/flodbilder.htm_txt_f-flod4.gif
+- flodbilder.htm: archive/original/_derived/flodbilder.htm_txt_f-flod5.gif
+- flodbilder.htm: archive/original/photogallery/photo00025797/f-flod7.jpg
+- flodbilder.htm: archive/original/photogallery/photo00025797/flod-kerstin.jpg
+- flodbilder.htm: archive/original/photogallery/photo00025797/flod1.jpg
+- flodbilder.htm: archive/original/photogallery/photo00025797/flod2.jpg
+- flodbilder.htm: archive/original/photogallery/photo00025797/flod3.jpg
+- flodbilder.htm: archive/original/photogallery/photo00025797/flod4.jpg
+- flodbilder.htm: archive/original/photogallery/photo00025797/flod5.jpg
+- flodbilder.htm: archive/original/photogallery/photo00025797/flod6.jpg
+- flodbilder.htm: archive/original/photogallery/photo00025797/flod7.jpg
+- flodbilder.htm: archive/original/photogallery/photo00025797/flod8.jpg
+- flodbilder.htm: archive/original/photogallery/photo00025797/f-flod8.jpg
+- flodbilder.htm: archive/original/photogallery/photo00025797/olofsson.jpg
+- flodbilder.htm: archive/original/button73.jpg
+- forum.htm: archive/original/forum.1.jpg
+- fotogalleri IV.htm: archive/original/Vrian1B_small.jpg
+- fotogalleri IV.htm: archive/original/Vibyungdomar_small.jpg
+- fotogalleri IV.htm: archive/original/Per%20o%20Ivar%20kopiera_small1.jpg
+- fotogalleri IV.htm: archive/original/Vrian%2088_small.jpg
+- fotogalleri IV.htm: archive/original/Kyrkan%20stulen_small.jpg
+- fotogalleri IV.htm: archive/original/Byv1_small.jpg
+- fotogalleri IV.htm: archive/original/byv3_small.jpg
+- fotogalleri IV.htm: archive/original/byv5_small.jpg
+- fotogalleri IV.htm: archive/original/byv6.1_small.jpg
+- fotogalleri IV.htm: archive/original/byv5.3_small.jpg
+- fotogalleri IV.htm: archive/original/byv6.2_small.jpg
+- fotogalleri IV.htm: archive/original/byv5.4_small.jpg
+- fotogalleri2.htm: archive/original/ladkamera1.jpg
+- fotogalleri2.htm: archive/original/Vrian1B_small.jpg
+- fotogalleri2.htm: archive/original/Vibyungdomar_small.jpg
+- fotogalleri2.htm: archive/original/Per%20o%20Ivar%20kopiera_small1.jpg
+- fotogalleri2.htm: archive/original/Vrian%2088_small.jpg
+- fotogalleri2.htm: archive/original/Kyrkan%20stulen_small.jpg
+- fotogalleri2.htm: archive/original/Byv1_small.jpg
+- fotogalleri2.htm: archive/original/byv3_small.jpg
+- fotogalleri2.htm: archive/original/byv5_small.jpg
+- fotogalleri2.htm: archive/original/byv6.1_small.jpg
+- fotogalleri2.htm: archive/original/byv5.3_small.jpg
+- fotogalleri2.htm: archive/original/byv6.2_small.jpg
+- fotogalleri2.htm: archive/original/byv5.4_small.jpg
+- GATEHUSEN/gatehusen haslov 10-12.htm: archive/original/GATEHUSEN/gatehusen2.jpg
+- gokotta-flodbat.htm: archive/original/gok1-05.jpg
+- gokotta-flodbat.htm: archive/original/gok3-05.jpg
+- gokotta-flodbat.htm: archive/original/gok2-05.jpg
+- gokottan2.htm: archive/original/svenne4.jpg
+- gokottan2.htm: archive/original/arnestark.jpg
+- gokottan2.htm: archive/original/svenne1.jpg
+- gokottan2.htm: archive/original/svenne8.jpg
+- gokottan2.htm: archive/original/skarven.jpg
+- gokottan2.htm: archive/original/svenne.jpg
+- gokottan2.htm: archive/original/per-anders.jpg
+- gokottan2.htm: archive/original/nick.jpg
+- gokottan2.htm: archive/original/svenne7.jpg
+- gokottan2.htm: archive/original/svenne2.jpg
+- gokottan2.htm: archive/original/petter.jpg
+- lindblads.htm: archive/original/Lindbl5.jpg
+- viby_kyrkby.htm: archive/original/photogallery/photo00019629/prevdis.gif
+- viby_kyrkby.htm: archive/original/photogallery/photo00019629/next.gif
